@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Hash Table, Graph Theory, Matrix
 # Link     : https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12484000 (beats 0%)
+# Runtime  : 466 ms (beats 100%)
+# Memory   : 50632000 (beats 50%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
