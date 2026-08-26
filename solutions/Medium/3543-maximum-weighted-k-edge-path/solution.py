@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Hash Table, Dynamic Programming, Graph Theory
 # Link     : https://leetcode.com/problems/maximum-weighted-k-edge-path/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12444000 (beats 0%)
+# Runtime  : 483 ms (beats 100%)
+# Memory   : 33140000 (beats 0%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
