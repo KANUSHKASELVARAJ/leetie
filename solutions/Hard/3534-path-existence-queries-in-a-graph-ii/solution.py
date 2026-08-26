@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Two Pointers, Binary Search, Dynamic Programming, Greedy, Bit Manipulation, Graph Theory, Sorting
 # Link     : https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12304000 (beats 0%)
+# Runtime  : 2999 ms (beats 23%)
+# Memory   : 82412000 (beats 13%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
