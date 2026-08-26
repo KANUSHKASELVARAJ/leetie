@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Binary Search, Union-Find, Graph Theory, Sorting
 # Link     : https://leetcode.com/problems/minimize-maximum-component-cost/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12452000 (beats 0%)
+# Runtime  : 239 ms (beats 100%)
+# Memory   : 49804000 (beats 38%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
