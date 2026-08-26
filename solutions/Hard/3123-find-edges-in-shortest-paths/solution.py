@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path
 # Link     : https://leetcode.com/problems/find-edges-in-shortest-paths/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12324000 (beats 0%)
+# Runtime  : 882 ms (beats 50%)
+# Memory   : 47004000 (beats 80%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
