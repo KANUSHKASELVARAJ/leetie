@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Graph Theory, Heap (Priority Queue), Shortest Path
 # Link     : https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12316000 (beats 0%)
+# Runtime  : 221 ms (beats 54%)
+# Memory   : 54784000 (beats 92%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
