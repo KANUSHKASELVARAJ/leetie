@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Tree, Depth-First Search, Breadth-First Search, Graph Theory
 # Link     : https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12420000 (beats 0%)
+# Runtime  : 619 ms (beats 92%)
+# Memory   : 71732000 (beats 83%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
