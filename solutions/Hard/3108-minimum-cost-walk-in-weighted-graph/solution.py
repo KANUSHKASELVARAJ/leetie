@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Bit Manipulation, Union-Find, Graph Theory
 # Link     : https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12208000 (beats 0%)
+# Runtime  : 485 ms (beats 25%)
+# Memory   : 168636000 (beats 13%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
