@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Binary Search, Union-Find, Graph Theory, Sorting
 # Link     : https://leetcode.com/problems/minimum-time-for-k-connected-components/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12472000 (beats 0%)
+# Runtime  : 239 ms (beats 78%)
+# Memory   : 39788000 (beats 11%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
