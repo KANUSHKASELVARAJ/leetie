@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 26 Solved
+## Progress Summary: 27 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -22,6 +22,7 @@
 | minimum-cost-to-convert-string-ii | Minimum Cost to Convert String II | Hard | python | [Problem](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | [Solution](./solutions/Hard/2977-minimum-cost-to-convert-string-ii/solution.py) |
 | minimum-cost-walk-in-weighted-graph | Minimum Cost Walk in Weighted Graph | Hard | python | [Problem](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | [Solution](./solutions/Hard/3108-minimum-cost-walk-in-weighted-graph/solution.py) |
 | minimum-edge-reversals-so-every-node-is-reachable | Minimum Edge Reversals So Every Node Is Reachable | Hard | python | [Problem](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/) | [Solution](./solutions/Hard/2858-minimum-edge-reversals-so-every-node-is-reachable/solution.py) |
+| minimum-time-for-k-connected-components | Minimum Time for K Connected Components | Medium | python | [Problem](https://leetcode.com/problems/minimum-time-for-k-connected-components/) | [Solution](./solutions/Medium/3608-minimum-time-for-k-connected-components/solution.py) |
 | minimum-time-to-reach-destination-in-directed-graph | Minimum Time to Reach Destination in Directed Graph | Medium | python | [Problem](https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph/) | [Solution](./solutions/Medium/3604-minimum-time-to-reach-destination-in-directed-graph/solution.py) |
 | minimum-time-to-transport-all-individuals | Minimum Time to Transport All Individuals | Hard | python | [Problem](https://leetcode.com/problems/minimum-time-to-transport-all-individuals/) | [Solution](./solutions/Hard/3594-minimum-time-to-transport-all-individuals/solution.py) |
 | minimum-time-to-visit-a-cell-in-a-grid | Minimum Time to Visit a Cell In a Grid | Hard | python | [Problem](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) | [Solution](./solutions/Hard/2577-minimum-time-to-visit-a-cell-in-a-grid/solution.py) |
