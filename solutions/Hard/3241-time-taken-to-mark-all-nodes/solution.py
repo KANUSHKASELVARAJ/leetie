@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Dynamic Programming, Tree, Depth-First Search, Graph Theory, DP on Trees
 # Link     : https://leetcode.com/problems/time-taken-to-mark-all-nodes/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12444000 (beats 0%)
+# Runtime  : 1211 ms (beats 67%)
+# Memory   : 170752000 (beats 33%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
