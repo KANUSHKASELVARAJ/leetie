@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Binary Search, Greedy, Union-Find, Graph Theory, Minimum Spanning Tree
 # Link     : https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12204000 (beats 0%)
+# Runtime  : 4218 ms (beats 10%)
+# Memory   : 154592000 (beats 5%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
