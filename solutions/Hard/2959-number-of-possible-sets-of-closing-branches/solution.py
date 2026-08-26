@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Bit Manipulation, Graph Theory, Heap (Priority Queue), Enumeration, Shortest Path
 # Link     : https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12332000 (beats 0%)
+# Runtime  : 1305 ms (beats 13%)
+# Memory   : 12092000 (beats 100%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
