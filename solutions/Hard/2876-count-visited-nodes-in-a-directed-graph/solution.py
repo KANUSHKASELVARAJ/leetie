@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Dynamic Programming, Depth-First Search, Graph Theory, Topological Sort, Memoization, Kosaraju's Algorithm, Tarjan's SCC Algorithm
 # Link     : https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12408000 (beats 0%)
+# Runtime  : 503 ms (beats 33%)
+# Memory   : 56996000 (beats 27%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
