@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 14 Solved
+## Progress Summary: 15 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -20,3 +20,4 @@
 | modify-graph-edge-weights | Modify Graph Edge Weights | Hard | python | [Problem](https://leetcode.com/problems/modify-graph-edge-weights/) | [Solution](./solutions/Hard/2699-modify-graph-edge-weights/solution.py) |
 | number-of-possible-sets-of-closing-branches | Number of Possible Sets of Closing Branches | Hard | python | [Problem](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/) | [Solution](./solutions/Hard/2959-number-of-possible-sets-of-closing-branches/solution.py) |
 | shortest-cycle-in-a-graph | Shortest Cycle in a Graph | Hard | python | [Problem](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | [Solution](./solutions/Hard/2608-shortest-cycle-in-a-graph/solution.py) |
+| time-taken-to-mark-all-nodes | Time Taken to Mark All Nodes | Hard | python | [Problem](https://leetcode.com/problems/time-taken-to-mark-all-nodes/) | [Solution](./solutions/Hard/3241-time-taken-to-mark-all-nodes/solution.py) |
