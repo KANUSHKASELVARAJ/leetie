@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 13 Solved
+## Progress Summary: 14 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -11,6 +11,7 @@
 | count-visited-nodes-in-a-directed-graph | Count Visited Nodes in a Directed Graph | Hard | python | [Problem](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/) | [Solution](./solutions/Hard/2876-count-visited-nodes-in-a-directed-graph/solution.py) |
 | design-graph-with-shortest-path-calculator | Design Graph With Shortest Path Calculator | Hard | python | [Problem](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [Solution](./solutions/Hard/2642-design-graph-with-shortest-path-calculator/solution.py) |
 | find-edges-in-shortest-paths | Find Edges in Shortest Paths | Hard | python | [Problem](https://leetcode.com/problems/find-edges-in-shortest-paths/) | [Solution](./solutions/Hard/3123-find-edges-in-shortest-paths/solution.py) |
+| find-minimum-diameter-after-merging-two-trees | Find Minimum Diameter After Merging Two Trees | Hard | python | [Problem](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/) | [Solution](./solutions/Hard/3203-find-minimum-diameter-after-merging-two-trees/solution.py) |
 | minimize-the-total-price-of-the-trips | Minimize the Total Price of the Trips | Hard | python | [Problem](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/) | [Solution](./solutions/Hard/2646-minimize-the-total-price-of-the-trips/solution.py) |
 | minimum-cost-to-convert-string-ii | Minimum Cost to Convert String II | Hard | python | [Problem](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | [Solution](./solutions/Hard/2977-minimum-cost-to-convert-string-ii/solution.py) |
 | minimum-cost-walk-in-weighted-graph | Minimum Cost Walk in Weighted Graph | Hard | python | [Problem](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | [Solution](./solutions/Hard/3108-minimum-cost-walk-in-weighted-graph/solution.py) |
