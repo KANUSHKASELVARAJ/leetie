@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Math, Greedy, Graph Theory
 # Link     : https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12404000 (beats 0%)
+# Runtime  : 522 ms (beats 33%)
+# Memory   : 35384000 (beats 33%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
