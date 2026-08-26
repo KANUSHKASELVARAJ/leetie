@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory
 # Link     : https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12436000 (beats 0%)
+# Runtime  : 1392 ms (beats 12%)
+# Memory   : 240808000 (beats 12%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
