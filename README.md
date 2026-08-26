@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 18 Solved
+## Progress Summary: 19 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -13,6 +13,7 @@
 | design-graph-with-shortest-path-calculator | Design Graph With Shortest Path Calculator | Hard | python | [Problem](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [Solution](./solutions/Hard/2642-design-graph-with-shortest-path-calculator/solution.py) |
 | find-edges-in-shortest-paths | Find Edges in Shortest Paths | Hard | python | [Problem](https://leetcode.com/problems/find-edges-in-shortest-paths/) | [Solution](./solutions/Hard/3123-find-edges-in-shortest-paths/solution.py) |
 | find-minimum-diameter-after-merging-two-trees | Find Minimum Diameter After Merging Two Trees | Hard | python | [Problem](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/) | [Solution](./solutions/Hard/3203-find-minimum-diameter-after-merging-two-trees/solution.py) |
+| frequencies-of-shortest-supersequences | Frequencies of Shortest Supersequences | Hard | python | [Problem](https://leetcode.com/problems/frequencies-of-shortest-supersequences/) | [Solution](./solutions/Hard/3435-frequencies-of-shortest-supersequences/solution.py) |
 | minimize-the-maximum-edge-weight-of-graph | Minimize the Maximum Edge Weight of Graph | Medium | python | [Problem](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/) | [Solution](./solutions/Medium/3419-minimize-the-maximum-edge-weight-of-graph/solution.py) |
 | minimize-the-total-price-of-the-trips | Minimize the Total Price of the Trips | Hard | python | [Problem](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/) | [Solution](./solutions/Hard/2646-minimize-the-total-price-of-the-trips/solution.py) |
 | minimum-cost-to-convert-string-ii | Minimum Cost to Convert String II | Hard | python | [Problem](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | [Solution](./solutions/Hard/2977-minimum-cost-to-convert-string-ii/solution.py) |
