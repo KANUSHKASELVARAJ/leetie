@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 27 Solved
+## Progress Summary: 28 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -17,6 +17,7 @@
 | maximize-spanning-tree-stability-with-upgrades | Maximize Spanning Tree Stability with Upgrades | Hard | python | [Problem](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | [Solution](./solutions/Hard/3600-maximize-spanning-tree-stability-with-upgrades/solution.py) |
 | maximum-sum-of-edge-values-in-a-graph | Maximum Sum of Edge Values in a Graph | Hard | python | [Problem](https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph/) | [Solution](./solutions/Hard/3547-maximum-sum-of-edge-values-in-a-graph/solution.py) |
 | maximum-weighted-k-edge-path | Maximum Weighted K-Edge Path | Medium | python | [Problem](https://leetcode.com/problems/maximum-weighted-k-edge-path/) | [Solution](./solutions/Medium/3543-maximum-weighted-k-edge-path/solution.py) |
+| minimize-maximum-component-cost | Minimize Maximum Component Cost | Medium | python | [Problem](https://leetcode.com/problems/minimize-maximum-component-cost/) | [Solution](./solutions/Medium/3613-minimize-maximum-component-cost/solution.py) |
 | minimize-the-maximum-edge-weight-of-graph | Minimize the Maximum Edge Weight of Graph | Medium | python | [Problem](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/) | [Solution](./solutions/Medium/3419-minimize-the-maximum-edge-weight-of-graph/solution.py) |
 | minimize-the-total-price-of-the-trips | Minimize the Total Price of the Trips | Hard | python | [Problem](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/) | [Solution](./solutions/Hard/2646-minimize-the-total-price-of-the-trips/solution.py) |
 | minimum-cost-to-convert-string-ii | Minimum Cost to Convert String II | Hard | python | [Problem](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | [Solution](./solutions/Hard/2977-minimum-cost-to-convert-string-ii/solution.py) |
