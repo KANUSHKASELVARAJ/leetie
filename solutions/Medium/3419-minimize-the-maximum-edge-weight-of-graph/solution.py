@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Binary Search, Depth-First Search, Breadth-First Search, Graph Theory, Shortest Path
 # Link     : https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12436000 (beats 0%)
+# Runtime  : 837 ms (beats 100%)
+# Memory   : 66564000 (beats 9%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
