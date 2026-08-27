@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 44 Solved
+## Progress Summary: 45 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -34,6 +34,7 @@
 | minimum-edge-reversals-so-every-node-is-reachable | Minimum Edge Reversals So Every Node Is Reachable | Hard | python | [Problem](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/) | [Solution](./solutions/Hard/2858-minimum-edge-reversals-so-every-node-is-reachable/solution.py) |
 | minimum-edge-toggles-on-a-tree | Minimum Edge Toggles on a Tree | Hard | python | [Problem](https://leetcode.com/problems/minimum-edge-toggles-on-a-tree/) | [Solution](./solutions/Hard/3812-minimum-edge-toggles-on-a-tree/solution.py) |
 | minimum-height-trees | Minimum Height Trees | Medium | python | [Problem](https://leetcode.com/problems/minimum-height-trees/) | [Solution](./solutions/Medium/0310-minimum-height-trees/solution.py) |
+| minimum-path-sum | Minimum Path Sum | Medium | python | [Problem](https://leetcode.com/problems/minimum-path-sum/) | [Solution](./solutions/Medium/0064-minimum-path-sum/solution.py) |
 | minimum-threshold-path-with-limited-heavy-edges | Minimum Threshold Path With Limited Heavy Edges | Hard | python | [Problem](https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/) | [Solution](./solutions/Hard/3924-minimum-threshold-path-with-limited-heavy-edges/solution.py) |
 | minimum-time-for-k-connected-components | Minimum Time for K Connected Components | Medium | python | [Problem](https://leetcode.com/problems/minimum-time-for-k-connected-components/) | [Solution](./solutions/Medium/3608-minimum-time-for-k-connected-components/solution.py) |
 | minimum-time-to-reach-destination-in-directed-graph | Minimum Time to Reach Destination in Directed Graph | Medium | python | [Problem](https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph/) | [Solution](./solutions/Medium/3604-minimum-time-to-reach-destination-in-directed-graph/solution.py) |
