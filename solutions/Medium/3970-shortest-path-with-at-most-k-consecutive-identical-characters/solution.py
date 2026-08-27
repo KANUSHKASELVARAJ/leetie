@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Graph Theory, Heap (Priority Queue), Shortest Path
 # Link     : https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12340000 (beats 0%)
+# Runtime  : 554 ms (beats 56%)
+# Memory   : 59740000 (beats 32%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
