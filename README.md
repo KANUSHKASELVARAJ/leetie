@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 32 Solved
+## Progress Summary: 33 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -13,6 +13,7 @@
 | design-graph-with-shortest-path-calculator | Design Graph With Shortest Path Calculator | Hard | python | [Problem](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [Solution](./solutions/Hard/2642-design-graph-with-shortest-path-calculator/solution.py) |
 | find-edges-in-shortest-paths | Find Edges in Shortest Paths | Hard | python | [Problem](https://leetcode.com/problems/find-edges-in-shortest-paths/) | [Solution](./solutions/Hard/3123-find-edges-in-shortest-paths/solution.py) |
 | find-minimum-diameter-after-merging-two-trees | Find Minimum Diameter After Merging Two Trees | Hard | python | [Problem](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/) | [Solution](./solutions/Hard/3203-find-minimum-diameter-after-merging-two-trees/solution.py) |
+| find-the-degree-of-each-vertex | Find the Degree of Each Vertex | Easy | python | [Problem](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | [Solution](./solutions/Easy/3898-find-the-degree-of-each-vertex/solution.py) |
 | frequencies-of-shortest-supersequences | Frequencies of Shortest Supersequences | Hard | python | [Problem](https://leetcode.com/problems/frequencies-of-shortest-supersequences/) | [Solution](./solutions/Hard/3435-frequencies-of-shortest-supersequences/solution.py) |
 | maximize-spanning-tree-stability-with-upgrades | Maximize Spanning Tree Stability with Upgrades | Hard | python | [Problem](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | [Solution](./solutions/Hard/3600-maximize-spanning-tree-stability-with-upgrades/solution.py) |
 | maximum-partition-factor | Maximum Partition Factor | Hard | python | [Problem](https://leetcode.com/problems/maximum-partition-factor/) | [Solution](./solutions/Hard/3710-maximum-partition-factor/solution.py) |
