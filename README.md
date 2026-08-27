@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 38 Solved
+## Progress Summary: 39 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -43,4 +43,5 @@
 | path-existence-queries-in-a-graph-ii | Path Existence Queries in a Graph II | Hard | python | [Problem](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [Solution](./solutions/Hard/3534-path-existence-queries-in-a-graph-ii/solution.py) |
 | shortest-cycle-in-a-graph | Shortest Cycle in a Graph | Hard | python | [Problem](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | [Solution](./solutions/Hard/2608-shortest-cycle-in-a-graph/solution.py) |
 | shortest-distance-after-road-addition-queries-ii | Shortest Distance After Road Addition Queries II | Hard | python | [Problem](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/) | [Solution](./solutions/Hard/3244-shortest-distance-after-road-addition-queries-ii/solution.py) |
+| shortest-path-with-at-most-k-consecutive-identical-characters | Shortest Path With At Most K Consecutive Identical Characters | Medium | python | [Problem](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | [Solution](./solutions/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/solution.py) |
 | time-taken-to-mark-all-nodes | Time Taken to Mark All Nodes | Hard | python | [Problem](https://leetcode.com/problems/time-taken-to-mark-all-nodes/) | [Solution](./solutions/Hard/3241-time-taken-to-mark-all-nodes/solution.py) |
