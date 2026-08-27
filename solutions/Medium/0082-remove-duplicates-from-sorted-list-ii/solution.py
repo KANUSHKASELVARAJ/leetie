@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Linked List, Two Pointers
 # Link     : https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12236000 (beats 0%)
+# Runtime  : 3 ms (beats 49%)
+# Memory   : 12392000 (beats 89%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
