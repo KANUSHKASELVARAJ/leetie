@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 53 Solved
+## Progress Summary: 54 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -46,6 +46,7 @@
 | modify-graph-edge-weights | Modify Graph Edge Weights | Hard | python | [Problem](https://leetcode.com/problems/modify-graph-edge-weights/) | [Solution](./solutions/Hard/2699-modify-graph-edge-weights/solution.py) |
 | network-recovery-pathways | Network Recovery Pathways | Hard | python | [Problem](https://leetcode.com/problems/network-recovery-pathways/) | [Solution](./solutions/Hard/3620-network-recovery-pathways/solution.py) |
 | number-of-possible-sets-of-closing-branches | Number of Possible Sets of Closing Branches | Hard | python | [Problem](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/) | [Solution](./solutions/Hard/2959-number-of-possible-sets-of-closing-branches/solution.py) |
+| partition-list | Partition List | Medium | python | [Problem](https://leetcode.com/problems/partition-list/) | [Solution](./solutions/Medium/0086-partition-list/solution.py) |
 | path-existence-queries-in-a-graph-i | Path Existence Queries in a Graph I | Medium | python | [Problem](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | [Solution](./solutions/Medium/3532-path-existence-queries-in-a-graph-i/solution.py) |
 | path-existence-queries-in-a-graph-ii | Path Existence Queries in a Graph II | Hard | python | [Problem](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [Solution](./solutions/Hard/3534-path-existence-queries-in-a-graph-ii/solution.py) |
 | remove-duplicates-from-sorted-array-ii | Remove Duplicates from Sorted Array II | Medium | python | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](./solutions/Medium/0080-remove-duplicates-from-sorted-array-ii/solution.py) |
