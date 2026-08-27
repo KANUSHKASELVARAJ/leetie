@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 36 Solved
+## Progress Summary: 37 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -11,6 +11,7 @@
 | count-connected-subgraphs-with-even-node-sum | Count Connected Subgraphs with Even Node Sum | Hard | python | [Problem](https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/) | [Solution](./solutions/Hard/3910-count-connected-subgraphs-with-even-node-sum/solution.py) |
 | count-the-number-of-houses-at-a-certain-distance-ii | Count the Number of Houses at a Certain Distance II | Hard | python | [Problem](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/) | [Solution](./solutions/Hard/3017-count-the-number-of-houses-at-a-certain-distance-ii/solution.py) |
 | count-visited-nodes-in-a-directed-graph | Count Visited Nodes in a Directed Graph | Hard | python | [Problem](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/) | [Solution](./solutions/Hard/2876-count-visited-nodes-in-a-directed-graph/solution.py) |
+| course-schedule | Course Schedule | Medium | python | [Problem](https://leetcode.com/problems/course-schedule/) | [Solution](./solutions/Medium/0207-course-schedule/solution.py) |
 | design-graph-with-shortest-path-calculator | Design Graph With Shortest Path Calculator | Hard | python | [Problem](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [Solution](./solutions/Hard/2642-design-graph-with-shortest-path-calculator/solution.py) |
 | find-edges-in-shortest-paths | Find Edges in Shortest Paths | Hard | python | [Problem](https://leetcode.com/problems/find-edges-in-shortest-paths/) | [Solution](./solutions/Hard/3123-find-edges-in-shortest-paths/solution.py) |
 | find-minimum-diameter-after-merging-two-trees | Find Minimum Diameter After Merging Two Trees | Hard | python | [Problem](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/) | [Solution](./solutions/Hard/3203-find-minimum-diameter-after-merging-two-trees/solution.py) |
