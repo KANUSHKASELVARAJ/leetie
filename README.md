@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 58 Solved
+## Progress Summary: 59 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -53,6 +53,7 @@
 | path-existence-queries-in-a-graph-ii | Path Existence Queries in a Graph II | Hard | python | [Problem](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [Solution](./solutions/Hard/3534-path-existence-queries-in-a-graph-ii/solution.py) |
 | remove-duplicates-from-sorted-array-ii | Remove Duplicates from Sorted Array II | Medium | python | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](./solutions/Medium/0080-remove-duplicates-from-sorted-array-ii/solution.py) |
 | remove-duplicates-from-sorted-list-ii | Remove Duplicates from Sorted List II | Medium | python | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](./solutions/Medium/0082-remove-duplicates-from-sorted-list-ii/solution.py) |
+| restore-ip-addresses | Restore IP Addresses | Medium | python | [Problem](https://leetcode.com/problems/restore-ip-addresses/) | [Solution](./solutions/Medium/0093-restore-ip-addresses/solution.py) |
 | reverse-linked-list-ii | Reverse Linked List II | Medium | python | [Problem](https://leetcode.com/problems/reverse-linked-list-ii/) | [Solution](./solutions/Medium/0092-reverse-linked-list-ii/solution.py) |
 | search-a-2d-matrix | Search a 2D Matrix | Medium | python | [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./solutions/Medium/0074-search-a-2d-matrix/solution.py) |
 | set-matrix-zeroes | Set Matrix Zeroes | Medium | python | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./solutions/Medium/0073-set-matrix-zeroes/solution.py) |
