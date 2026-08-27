@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 55 Solved
+## Progress Summary: 56 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -59,5 +59,6 @@
 | shortest-path-with-at-most-k-consecutive-identical-characters | Shortest Path With At Most K Consecutive Identical Characters | Medium | python | [Problem](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | [Solution](./solutions/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/solution.py) |
 | spiral-matrix-ii | Spiral Matrix II | Medium | python | [Problem](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./solutions/Medium/0059-spiral-matrix-ii/solution.py) |
 | subsets | Subsets | Medium | python | [Problem](https://leetcode.com/problems/subsets/) | [Solution](./solutions/Medium/0078-subsets/solution.py) |
+| subsets-ii | Subsets II | Medium | python | [Problem](https://leetcode.com/problems/subsets-ii/) | [Solution](./solutions/Medium/0090-subsets-ii/solution.py) |
 | time-taken-to-mark-all-nodes | Time Taken to Mark All Nodes | Hard | python | [Problem](https://leetcode.com/problems/time-taken-to-mark-all-nodes/) | [Solution](./solutions/Hard/3241-time-taken-to-mark-all-nodes/solution.py) |
 | word-search | Word Search | Medium | python | [Problem](https://leetcode.com/problems/word-search/) | [Solution](./solutions/Medium/0079-word-search/solution.py) |
