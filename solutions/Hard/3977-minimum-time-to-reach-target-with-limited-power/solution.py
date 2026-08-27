@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Dynamic Programming, Graph Theory, Heap (Priority Queue), Shortest Path
 # Link     : https://leetcode.com/problems/minimum-time-to-reach-target-with-limited-power/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12380000 (beats 0%)
+# Runtime  : 1041 ms (beats 67%)
+# Memory   : 29104000 (beats 77%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
