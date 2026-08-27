@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Backtracking, Bit Manipulation
 # Link     : https://leetcode.com/problems/subsets/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12252000 (beats 0%)
+# Runtime  : 1 ms (beats 19%)
+# Memory   : 12616000 (beats 24%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
