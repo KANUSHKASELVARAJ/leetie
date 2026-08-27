@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 30 Solved
+## Progress Summary: 31 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -15,6 +15,7 @@
 | find-minimum-diameter-after-merging-two-trees | Find Minimum Diameter After Merging Two Trees | Hard | python | [Problem](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/) | [Solution](./solutions/Hard/3203-find-minimum-diameter-after-merging-two-trees/solution.py) |
 | frequencies-of-shortest-supersequences | Frequencies of Shortest Supersequences | Hard | python | [Problem](https://leetcode.com/problems/frequencies-of-shortest-supersequences/) | [Solution](./solutions/Hard/3435-frequencies-of-shortest-supersequences/solution.py) |
 | maximize-spanning-tree-stability-with-upgrades | Maximize Spanning Tree Stability with Upgrades | Hard | python | [Problem](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | [Solution](./solutions/Hard/3600-maximize-spanning-tree-stability-with-upgrades/solution.py) |
+| maximum-partition-factor | Maximum Partition Factor | Hard | python | [Problem](https://leetcode.com/problems/maximum-partition-factor/) | [Solution](./solutions/Hard/3710-maximum-partition-factor/solution.py) |
 | maximum-sum-of-edge-values-in-a-graph | Maximum Sum of Edge Values in a Graph | Hard | python | [Problem](https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph/) | [Solution](./solutions/Hard/3547-maximum-sum-of-edge-values-in-a-graph/solution.py) |
 | maximum-weighted-k-edge-path | Maximum Weighted K-Edge Path | Medium | python | [Problem](https://leetcode.com/problems/maximum-weighted-k-edge-path/) | [Solution](./solutions/Medium/3543-maximum-weighted-k-edge-path/solution.py) |
 | minimize-maximum-component-cost | Minimize Maximum Component Cost | Medium | python | [Problem](https://leetcode.com/problems/minimize-maximum-component-cost/) | [Solution](./solutions/Medium/3613-minimize-maximum-component-cost/solution.py) |
