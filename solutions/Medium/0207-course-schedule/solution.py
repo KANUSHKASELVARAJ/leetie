@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph
 # Link     : https://leetcode.com/problems/course-schedule/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12436000 (beats 0%)
+# Runtime  : 3 ms (beats 95%)
+# Memory   : 13032000 (beats 91%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
