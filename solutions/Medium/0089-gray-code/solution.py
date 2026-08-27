@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Math, Backtracking, Bit Manipulation
 # Link     : https://leetcode.com/problems/gray-code/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12384000 (beats 0%)
+# Runtime  : 10 ms (beats 48%)
+# Memory   : 20484000 (beats 80%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
