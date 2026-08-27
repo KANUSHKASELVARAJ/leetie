@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Bit Manipulation, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Enumeration
 # Link     : https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12364000 (beats 0%)
+# Runtime  : 424 ms (beats 11%)
+# Memory   : 12784000 (beats 67%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
