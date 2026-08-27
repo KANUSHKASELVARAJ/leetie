@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Sorting, Quicksort
 # Link     : https://leetcode.com/problems/merge-intervals/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12336000 (beats 0%)
+# Runtime  : 9 ms (beats 71%)
+# Memory   : 15852000 (beats 89%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
