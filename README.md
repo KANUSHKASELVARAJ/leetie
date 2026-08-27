@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 45 Solved
+## Progress Summary: 46 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -13,6 +13,7 @@
 | count-visited-nodes-in-a-directed-graph | Count Visited Nodes in a Directed Graph | Hard | python | [Problem](https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph/) | [Solution](./solutions/Hard/2876-count-visited-nodes-in-a-directed-graph/solution.py) |
 | course-schedule | Course Schedule | Medium | python | [Problem](https://leetcode.com/problems/course-schedule/) | [Solution](./solutions/Medium/0207-course-schedule/solution.py) |
 | design-graph-with-shortest-path-calculator | Design Graph With Shortest Path Calculator | Hard | python | [Problem](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/) | [Solution](./solutions/Hard/2642-design-graph-with-shortest-path-calculator/solution.py) |
+| edit-distance | Edit Distance | Medium | python | [Problem](https://leetcode.com/problems/edit-distance/) | [Solution](./solutions/Medium/0072-edit-distance/solution.py) |
 | find-edges-in-shortest-paths | Find Edges in Shortest Paths | Hard | python | [Problem](https://leetcode.com/problems/find-edges-in-shortest-paths/) | [Solution](./solutions/Hard/3123-find-edges-in-shortest-paths/solution.py) |
 | find-minimum-diameter-after-merging-two-trees | Find Minimum Diameter After Merging Two Trees | Hard | python | [Problem](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/) | [Solution](./solutions/Hard/3203-find-minimum-diameter-after-merging-two-trees/solution.py) |
 | find-the-degree-of-each-vertex | Find the Degree of Each Vertex | Easy | python | [Problem](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | [Solution](./solutions/Easy/3898-find-the-degree-of-each-vertex/solution.py) |
