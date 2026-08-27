@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 34 Solved
+## Progress Summary: 35 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -28,6 +28,7 @@
 | minimum-cost-walk-in-weighted-graph | Minimum Cost Walk in Weighted Graph | Hard | python | [Problem](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | [Solution](./solutions/Hard/3108-minimum-cost-walk-in-weighted-graph/solution.py) |
 | minimum-edge-reversals-so-every-node-is-reachable | Minimum Edge Reversals So Every Node Is Reachable | Hard | python | [Problem](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/) | [Solution](./solutions/Hard/2858-minimum-edge-reversals-so-every-node-is-reachable/solution.py) |
 | minimum-edge-toggles-on-a-tree | Minimum Edge Toggles on a Tree | Hard | python | [Problem](https://leetcode.com/problems/minimum-edge-toggles-on-a-tree/) | [Solution](./solutions/Hard/3812-minimum-edge-toggles-on-a-tree/solution.py) |
+| minimum-threshold-path-with-limited-heavy-edges | Minimum Threshold Path With Limited Heavy Edges | Hard | python | [Problem](https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/) | [Solution](./solutions/Hard/3924-minimum-threshold-path-with-limited-heavy-edges/solution.py) |
 | minimum-time-for-k-connected-components | Minimum Time for K Connected Components | Medium | python | [Problem](https://leetcode.com/problems/minimum-time-for-k-connected-components/) | [Solution](./solutions/Medium/3608-minimum-time-for-k-connected-components/solution.py) |
 | minimum-time-to-reach-destination-in-directed-graph | Minimum Time to Reach Destination in Directed Graph | Medium | python | [Problem](https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph/) | [Solution](./solutions/Medium/3604-minimum-time-to-reach-destination-in-directed-graph/solution.py) |
 | minimum-time-to-transport-all-individuals | Minimum Time to Transport All Individuals | Hard | python | [Problem](https://leetcode.com/problems/minimum-time-to-transport-all-individuals/) | [Solution](./solutions/Hard/3594-minimum-time-to-transport-all-individuals/solution.py) |
