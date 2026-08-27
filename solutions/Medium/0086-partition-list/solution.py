@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Linked List, Two Pointers
 # Link     : https://leetcode.com/problems/partition-list/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12464000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12552000 (beats 16%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
