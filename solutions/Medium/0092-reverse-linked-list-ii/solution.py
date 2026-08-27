@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Linked List
 # Link     : https://leetcode.com/problems/reverse-linked-list-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12380000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12604000 (beats 45%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
