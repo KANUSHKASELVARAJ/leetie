@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Graph Theory, Heap (Priority Queue), Shortest Path
 # Link     : https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12356000 (beats 0%)
+# Runtime  : 759 ms (beats 67%)
+# Memory   : 68972000 (beats 71%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
