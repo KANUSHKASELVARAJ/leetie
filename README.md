@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 47 Solved
+## Progress Summary: 48 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -47,6 +47,7 @@
 | number-of-possible-sets-of-closing-branches | Number of Possible Sets of Closing Branches | Hard | python | [Problem](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/) | [Solution](./solutions/Hard/2959-number-of-possible-sets-of-closing-branches/solution.py) |
 | path-existence-queries-in-a-graph-i | Path Existence Queries in a Graph I | Medium | python | [Problem](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | [Solution](./solutions/Medium/3532-path-existence-queries-in-a-graph-i/solution.py) |
 | path-existence-queries-in-a-graph-ii | Path Existence Queries in a Graph II | Hard | python | [Problem](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [Solution](./solutions/Hard/3534-path-existence-queries-in-a-graph-ii/solution.py) |
+| search-a-2d-matrix | Search a 2D Matrix | Medium | python | [Problem](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution](./solutions/Medium/0074-search-a-2d-matrix/solution.py) |
 | set-matrix-zeroes | Set Matrix Zeroes | Medium | python | [Problem](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](./solutions/Medium/0073-set-matrix-zeroes/solution.py) |
 | shortest-cycle-in-a-graph | Shortest Cycle in a Graph | Hard | python | [Problem](https://leetcode.com/problems/shortest-cycle-in-a-graph/) | [Solution](./solutions/Hard/2608-shortest-cycle-in-a-graph/solution.py) |
 | shortest-distance-after-road-addition-queries-ii | Shortest Distance After Road Addition Queries II | Hard | python | [Problem](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/) | [Solution](./solutions/Hard/3244-shortest-distance-after-road-addition-queries-ii/solution.py) |
