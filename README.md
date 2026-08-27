@@ -2,11 +2,12 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 48 Solved
+## Progress Summary: 49 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | collect-coins-in-a-tree | Collect Coins in a Tree | Hard | python | [Problem](https://leetcode.com/problems/collect-coins-in-a-tree/) | [Solution](./solutions/Hard/2603-collect-coins-in-a-tree/solution.py) |
+| combinations | Combinations | Medium | python | [Problem](https://leetcode.com/problems/combinations/) | [Solution](./solutions/Medium/0077-combinations/solution.py) |
 | construct-2d-grid-matching-graph-layout | Construct 2D Grid Matching Graph Layout | Hard | python | [Problem](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/) | [Solution](./solutions/Hard/3311-construct-2d-grid-matching-graph-layout/solution.py) |
 | count-connected-subgraphs-with-even-node-sum | Count Connected Subgraphs with Even Node Sum | Hard | python | [Problem](https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/) | [Solution](./solutions/Hard/3910-count-connected-subgraphs-with-even-node-sum/solution.py) |
 | count-the-number-of-houses-at-a-certain-distance-ii | Count the Number of Houses at a Certain Distance II | Hard | python | [Problem](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-ii/) | [Solution](./solutions/Hard/3017-count-the-number-of-houses-at-a-certain-distance-ii/solution.py) |
