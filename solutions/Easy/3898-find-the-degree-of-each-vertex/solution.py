@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Graph Theory, Matrix
 # Link     : https://leetcode.com/problems/find-the-degree-of-each-vertex/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12436000 (beats 0%)
+# Runtime  : 47 ms (beats 5%)
+# Memory   : 12740000 (beats 10%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
