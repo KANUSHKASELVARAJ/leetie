@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Backtracking
 # Link     : https://leetcode.com/problems/restore-ip-addresses/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12432000 (beats 0%)
+# Runtime  : 4 ms (beats 54%)
+# Memory   : 12548000 (beats 1%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
