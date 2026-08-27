@@ -3,8 +3,8 @@
 # Difficulty: Hard
 # Tags     : Array, Binary Search, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory
 # Link     : https://leetcode.com/problems/maximum-partition-factor/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12612000 (beats 0%)
+# Runtime  : 6411 ms (beats 17%)
+# Memory   : 12632000 (beats 100%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
