@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array
 # Link     : https://leetcode.com/problems/insert-interval/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12312000 (beats 0%)
+# Runtime  : 5 ms (beats 13%)
+# Memory   : 14204000 (beats 16%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
