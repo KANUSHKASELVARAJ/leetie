@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 41 Solved
+## Progress Summary: 42 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -22,6 +22,7 @@
 | maximum-partition-factor | Maximum Partition Factor | Hard | python | [Problem](https://leetcode.com/problems/maximum-partition-factor/) | [Solution](./solutions/Hard/3710-maximum-partition-factor/solution.py) |
 | maximum-sum-of-edge-values-in-a-graph | Maximum Sum of Edge Values in a Graph | Hard | python | [Problem](https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph/) | [Solution](./solutions/Hard/3547-maximum-sum-of-edge-values-in-a-graph/solution.py) |
 | maximum-weighted-k-edge-path | Maximum Weighted K-Edge Path | Medium | python | [Problem](https://leetcode.com/problems/maximum-weighted-k-edge-path/) | [Solution](./solutions/Medium/3543-maximum-weighted-k-edge-path/solution.py) |
+| merge-intervals | Merge Intervals | Medium | python | [Problem](https://leetcode.com/problems/merge-intervals/) | [Solution](./solutions/Medium/0056-merge-intervals/solution.py) |
 | minimize-maximum-component-cost | Minimize Maximum Component Cost | Medium | python | [Problem](https://leetcode.com/problems/minimize-maximum-component-cost/) | [Solution](./solutions/Medium/3613-minimize-maximum-component-cost/solution.py) |
 | minimize-the-maximum-edge-weight-of-graph | Minimize the Maximum Edge Weight of Graph | Medium | python | [Problem](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/) | [Solution](./solutions/Medium/3419-minimize-the-maximum-edge-weight-of-graph/solution.py) |
 | minimize-the-total-price-of-the-trips | Minimize the Total Price of the Trips | Hard | python | [Problem](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/) | [Solution](./solutions/Hard/2646-minimize-the-total-price-of-the-trips/solution.py) |
