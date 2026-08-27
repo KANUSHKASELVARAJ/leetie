@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Backtracking
 # Link     : https://leetcode.com/problems/combinations/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12268000 (beats 0%)
+# Runtime  : 210 ms (beats 85%)
+# Memory   : 131068000 (beats 89%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
