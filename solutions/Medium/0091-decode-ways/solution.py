@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : String, Dynamic Programming
 # Link     : https://leetcode.com/problems/decode-ways/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12268000 (beats 0%)
+# Runtime  : 1 ms (beats 57%)
+# Memory   : 12460000 (beats 29%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
