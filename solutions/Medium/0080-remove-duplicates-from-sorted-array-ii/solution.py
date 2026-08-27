@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Two Pointers
 # Link     : https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
-# Runtime  : 18 ms (beats 0%)
-# Memory   : 12324000 (beats 0%)
+# Runtime  : 64 ms (beats 87%)
+# Memory   : 15232000 (beats 68%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
