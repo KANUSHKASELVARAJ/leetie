@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 39 Solved
+## Progress Summary: 40 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -34,6 +34,7 @@
 | minimum-threshold-path-with-limited-heavy-edges | Minimum Threshold Path With Limited Heavy Edges | Hard | python | [Problem](https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/) | [Solution](./solutions/Hard/3924-minimum-threshold-path-with-limited-heavy-edges/solution.py) |
 | minimum-time-for-k-connected-components | Minimum Time for K Connected Components | Medium | python | [Problem](https://leetcode.com/problems/minimum-time-for-k-connected-components/) | [Solution](./solutions/Medium/3608-minimum-time-for-k-connected-components/solution.py) |
 | minimum-time-to-reach-destination-in-directed-graph | Minimum Time to Reach Destination in Directed Graph | Medium | python | [Problem](https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph/) | [Solution](./solutions/Medium/3604-minimum-time-to-reach-destination-in-directed-graph/solution.py) |
+| minimum-time-to-reach-target-with-limited-power | Minimum Time to Reach Target With Limited Power | Hard | python | [Problem](https://leetcode.com/problems/minimum-time-to-reach-target-with-limited-power/) | [Solution](./solutions/Hard/3977-minimum-time-to-reach-target-with-limited-power/solution.py) |
 | minimum-time-to-transport-all-individuals | Minimum Time to Transport All Individuals | Hard | python | [Problem](https://leetcode.com/problems/minimum-time-to-transport-all-individuals/) | [Solution](./solutions/Hard/3594-minimum-time-to-transport-all-individuals/solution.py) |
 | minimum-time-to-visit-a-cell-in-a-grid | Minimum Time to Visit a Cell In a Grid | Hard | python | [Problem](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) | [Solution](./solutions/Hard/2577-minimum-time-to-visit-a-cell-in-a-grid/solution.py) |
 | modify-graph-edge-weights | Modify Graph Edge Weights | Hard | python | [Problem](https://leetcode.com/problems/modify-graph-edge-weights/) | [Solution](./solutions/Hard/2699-modify-graph-edge-weights/solution.py) |
