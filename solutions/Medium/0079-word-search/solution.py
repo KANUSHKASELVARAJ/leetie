@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, String, Backtracking, Depth-First Search, Matrix
 # Link     : https://leetcode.com/problems/word-search/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12288000 (beats 0%)
+# Runtime  : 5774 ms (beats 64%)
+# Memory   : 12352000 (beats 58%)
 # Language : python
 # Copyright: (c) 2026 KANUSHKASELVARAJ. All rights reserved.
 # Synced by: leetie
