@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 35 Solved
+## Progress Summary: 36 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -23,6 +23,7 @@
 | minimize-maximum-component-cost | Minimize Maximum Component Cost | Medium | python | [Problem](https://leetcode.com/problems/minimize-maximum-component-cost/) | [Solution](./solutions/Medium/3613-minimize-maximum-component-cost/solution.py) |
 | minimize-the-maximum-edge-weight-of-graph | Minimize the Maximum Edge Weight of Graph | Medium | python | [Problem](https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/) | [Solution](./solutions/Medium/3419-minimize-the-maximum-edge-weight-of-graph/solution.py) |
 | minimize-the-total-price-of-the-trips | Minimize the Total Price of the Trips | Hard | python | [Problem](https://leetcode.com/problems/minimize-the-total-price-of-the-trips/) | [Solution](./solutions/Hard/2646-minimize-the-total-price-of-the-trips/solution.py) |
+| minimum-cost-path-with-alternating-directions-iii | Minimum Cost Path with Alternating Directions III | Hard | python | [Problem](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-iii/) | [Solution](./solutions/Hard/4003-minimum-cost-path-with-alternating-directions-iii/solution.py) |
 | minimum-cost-path-with-edge-reversals | Minimum Cost Path with Edge Reversals | Medium | python | [Problem](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/) | [Solution](./solutions/Medium/3650-minimum-cost-path-with-edge-reversals/solution.py) |
 | minimum-cost-to-convert-string-ii | Minimum Cost to Convert String II | Hard | python | [Problem](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/) | [Solution](./solutions/Hard/2977-minimum-cost-to-convert-string-ii/solution.py) |
 | minimum-cost-walk-in-weighted-graph | Minimum Cost Walk in Weighted Graph | Hard | python | [Problem](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) | [Solution](./solutions/Hard/3108-minimum-cost-walk-in-weighted-graph/solution.py) |
