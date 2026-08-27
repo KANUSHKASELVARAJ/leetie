@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 50 Solved
+## Progress Summary: 51 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -56,3 +56,4 @@
 | spiral-matrix-ii | Spiral Matrix II | Medium | python | [Problem](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](./solutions/Medium/0059-spiral-matrix-ii/solution.py) |
 | subsets | Subsets | Medium | python | [Problem](https://leetcode.com/problems/subsets/) | [Solution](./solutions/Medium/0078-subsets/solution.py) |
 | time-taken-to-mark-all-nodes | Time Taken to Mark All Nodes | Hard | python | [Problem](https://leetcode.com/problems/time-taken-to-mark-all-nodes/) | [Solution](./solutions/Hard/3241-time-taken-to-mark-all-nodes/solution.py) |
+| word-search | Word Search | Medium | python | [Problem](https://leetcode.com/problems/word-search/) | [Solution](./solutions/Medium/0079-word-search/solution.py) |
