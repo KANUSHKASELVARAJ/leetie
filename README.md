@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 59 Solved
+## Progress Summary: 60 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -22,6 +22,7 @@
 | frequencies-of-shortest-supersequences | Frequencies of Shortest Supersequences | Hard | python | [Problem](https://leetcode.com/problems/frequencies-of-shortest-supersequences/) | [Solution](./solutions/Hard/3435-frequencies-of-shortest-supersequences/solution.py) |
 | gray-code | Gray Code | Medium | python | [Problem](https://leetcode.com/problems/gray-code/) | [Solution](./solutions/Medium/0089-gray-code/solution.py) |
 | insert-interval | Insert Interval | Medium | python | [Problem](https://leetcode.com/problems/insert-interval/) | [Solution](./solutions/Medium/0057-insert-interval/solution.py) |
+| interleaving-string | Interleaving String | Medium | python | [Problem](https://leetcode.com/problems/interleaving-string/) | [Solution](./solutions/Medium/0097-interleaving-string/solution.py) |
 | jump-game | Jump Game | Medium | python | [Problem](https://leetcode.com/problems/jump-game/) | [Solution](./solutions/Medium/0055-jump-game/solution.py) |
 | maximize-spanning-tree-stability-with-upgrades | Maximize Spanning Tree Stability with Upgrades | Hard | python | [Problem](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | [Solution](./solutions/Hard/3600-maximize-spanning-tree-stability-with-upgrades/solution.py) |
 | maximum-partition-factor | Maximum Partition Factor | Hard | python | [Problem](https://leetcode.com/problems/maximum-partition-factor/) | [Solution](./solutions/Hard/3710-maximum-partition-factor/solution.py) |
